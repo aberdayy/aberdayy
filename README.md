@@ -1,5 +1,26 @@
 ### Hi there 👋
 
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=aberdayy&show_icons=true&theme=white"
+  media="(prefers-color-scheme: white)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=aberdayy&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=aberdayy&show_icons=true" />
+</picture>
+<br/>
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=aberdayy&hide=solidity,css&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<img src="https://github.com/aberdayy/github-readme-stats"
+</picture>
+
+
 <!--
 **aberdayy/aberdayy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
