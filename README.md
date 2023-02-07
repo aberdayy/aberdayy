@@ -8,7 +8,7 @@ I'm a self-taught passionate BackEnd developer from Turkiye TR
 
 - 💼 Computer Science Student at [FBU](http://fbu.edu.tr/)
 
-- ❤️ I love writing PHP, and building fun experiments on Python
+- ❤️ I love writing PHP, and building fun projects on Python
 
 - 💬 Ask me about anything [here](https://github.com/aberdayy/aberdayy/issues)
 
