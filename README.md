@@ -11,7 +11,8 @@
 - ❤️ I love writing PHP and building fun projects on Python
 
 - 💬 Ask me about anything [here](https://github.com/aberdayy/aberdayy/issues)
--   <img src="https://wakatime.com/badge/user/86fe9dd8-ef68-4c5f-81a3-b41a5c196cd0.svg" />  
+
+-   <a href="https://wakatime.com/@aberdayy"><img src="https://wakatime.com/badge/user/86fe9dd8-ef68-4c5f-81a3-b41a5c196cd0.svg" /></a>
 
 <code><img height="40" alt="php" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img  height="40" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
