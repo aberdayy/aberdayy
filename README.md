@@ -26,5 +26,5 @@ I'm a self-taught passionate BackEnd developer from Turkiye 🇹🇷
   <img align="center" src="https://github-readme-stats-two-delta-47.vercel.app/api/wakatime?username=aberdayy" />  
 </a>
 <a href="https://github.com/aberdayy/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-two-delta-47.vercel.app/api/top-langs/?username=aberdayy&theme=dark&hide_border=true" />
+  <img align="center" src="https://github-readme-stats-two-delta-47.vercel.app/api/top-langs/?username=aberdayy&hide=hack,html&theme=dark&hide_border=true" />
 </a>
