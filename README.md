@@ -19,12 +19,12 @@ I'm a self-taught passionate BackEnd developer from Turkiye 🇹🇷
 <code><img height="20" alt="java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>    
 
 <a href="https://github.com/aberdayy/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-two-delta-47.vercel.app/api?username=aberdayy&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Aberdayy's github stats" />
+  <img src="https://github-readme-stats-two-delta-47.vercel.app/api?username=aberdayy&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Aberdayy's github stats" />
 </a>
 
 <a href="https://github.com/aberdayy/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-two-delta-47.vercel.app/api/wakatime?username=aberdayy" />  
+  <img src="https://github-readme-stats-two-delta-47.vercel.app/api/wakatime?username=aberdayy" />  
 </a>
 <a href="https://github.com/aberdayy/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-two-delta-47.vercel.app/api/top-langs/?username=aberdayy&hide=hack,html&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats-two-delta-47.vercel.app/api/top-langs/?username=aberdayy&hide=hack,html&theme=dark&hide_border=true" />
 </a>
