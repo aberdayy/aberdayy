@@ -1,4 +1,4 @@
-<p align="center"><a href="https://aberdayy.github.io"><img width="80%" alt="Hello, I'm Ata. I do softwere development!" src="header(2).svg" /></a></p>
+<p align="center"><a href="https://aberdayy.github.io"><img width="80%" alt="Hello, I'm Ata. I do softwere development!" src="header.svg" /></a></p>
 
 <br />
 
@@ -25,7 +25,7 @@ I'm a self-taught passionate BackEnd developer from Turkiye TR
 | ------------- | ------------- |
 
 <!--
-**aberdayy/aberdayy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**aberdayy/aberdayy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
 
 Here are some ideas to get you started:
 
