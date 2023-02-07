@@ -8,7 +8,7 @@ I'm a self-taught passionate BackEnd developer from Turkiye 🇹🇷
 
 - 💼 Computer Science Student at [FBU](http://fbu.edu.tr/)
 
-- ❤️ I love writing PHP, and building fun projects on Python
+- ❤️ I love writing PHP and building fun projects on Python
 
 - 💬 Ask me about anything [here](https://github.com/aberdayy/aberdayy/issues)
 
@@ -18,6 +18,13 @@ I'm a self-taught passionate BackEnd developer from Turkiye 🇹🇷
 <code><img height="20" alt="kotlin" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/kotlin/kotlin.png"></code>
 <code><img height="20" alt="java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>    
 
-<img align="center" src="https://github-readme-stats-two-delta-47.vercel.app/api?username=aberdayy&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Aberdayy's github stats" />
+<a href="https://github.com/aberdayy/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-two-delta-47.vercel.app/api?username=aberdayy&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Aberdayy's github stats" />
+</a>
 
-<a href="https://github.com/aberdayy/github-readme-stats"><img align="center" src="https://github-readme-stats-two-delta-47.vercel.app/api/top-langs/?username=aberdayy&layout=compact&theme=dark&hide_border=true" /></a>
+<a href="https://github.com/aberdayy/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-two-delta-47.vercel.app/api/wakatime?username=aberdayy" />  
+</a>
+<a href="https://github.com/aberdayy/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-two-delta-47.vercel.app/api/top-langs/?username=aberdayy&theme=dark&hide_border=true" />
+</a>
