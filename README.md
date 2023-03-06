@@ -24,5 +24,5 @@
   <img src="https://github-readme-stats-two-delta-47.vercel.app/api?username=aberdayy&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Aberdayy's github stats" />
 </a>
 <a href="https://github.com/aberdayy/github-readme-stats">
-  <img src="https://github-readme-stats-two-delta-47.vercel.app/api/top-langs/?username=aberdayy&layout=compact&hide=hack,php&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats-two-delta-47.vercel.app/api/top-langs/?username=aberdayy&layout=compact&hide=hack&theme=dark&hide_border=true" />
 </a>
