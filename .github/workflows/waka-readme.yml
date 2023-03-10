@@ -20,5 +20,4 @@ jobs:
           SHOW_LINES_OF_CODE: "True"
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_SHORT_INFO: "False"
-          IGNORED_REPOS: "PHP_Library, MySQL_Library, PHP_Apps"
           
