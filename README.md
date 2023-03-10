@@ -31,20 +31,6 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%2022%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-173-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 6.5 kB Used in GitHub's Storage 
- > 
-> 🏆 188 Contributions in the Year 2023
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 15 Public Repositories 
- > 
-> 🔑 8 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
@@ -69,28 +55,12 @@ Sunday                   38 commits          ████░░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Europe/Istanbul
-
 💬 Programming Languages: 
 Java                     12 hrs 40 mins      ██████████████████████░░░   86.70 % 
 HTML                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
 CSS                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
 GitIgnore file           17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
 Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
-
-🔥 Editors: 
-IntelliJ                 13 hrs 1 min        ██████████████████████░░░   89.09 % 
-VS Code                  1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-
-🐱‍💻 Projects: 
-java-atm-banking-console-9 hrs 1 min         ███████████████░░░░░░░░░░   61.74 % 
-untitled                 1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-MIS 104                  1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-Java_Lessons             1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
-AtmConsoleApp            8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-
-💻 Operating System: 
-Windows                  14 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -105,10 +75,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/aberdayy/aberdayy/main/assets/bar_graph.png)
-
-
- Last Updated on 10/03/2023 12:01:41 UTC
+ Last Updated on 10/03/2023 12:03:04 UTC
 <!--END_SECTION:waka-->
