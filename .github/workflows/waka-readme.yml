@@ -17,8 +17,6 @@ jobs:
           SHOW_PROJECTS: "False"  
           SHOW_LANGUAGE: "False"
           SHOW_LOC_CHART: "False"
-          SHOW_EDITORS: "False"
           SHOW_LINES_OF_CODE: "True"
-          SHOW_OS: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
           
