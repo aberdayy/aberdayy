@@ -26,3 +26,7 @@
 <a href="https://github.com/aberdayy/github-readme-stats">
   <img src="https://github-readme-stats-two-delta-47.vercel.app/api/top-langs/?username=aberdayy&layout=compact&hide=hack,php&theme=dark&hide_border=true" />
 </a>
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
