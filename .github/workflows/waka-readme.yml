@@ -16,3 +16,9 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_COMMIT: "false"
           SHOW_DAYS_OF_WEEK: "false"
+          SHOW_PROJECTS: "false"  
+          SHOW_LOC_CHART: "false"
+          SHOW_LINES_OF_CODE: "true"
+          SHOW_OS: "false"
+          
+          
