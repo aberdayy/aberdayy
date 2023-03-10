@@ -28,5 +28,5 @@
 </a>
 
 <!--START_SECTION:waka-->
-[SHOW_COMMIT]
+
 <!--END_SECTION:waka-->
