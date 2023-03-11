@@ -41,7 +41,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%2022%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-109.8%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-112.3%20thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -80,5 +80,5 @@ AtmConsoleApp            8 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Last Updated on 11/03/2023 15:25:21 UTC
+ Last Updated on 11/03/2023 16:33:08 UTC
 <!--END_SECTION:waka-->
