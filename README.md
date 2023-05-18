@@ -39,7 +39,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-71%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-71%20hrs%2028%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-194.5%20thousand%20lines%20of%20code-blue)
 
@@ -75,5 +75,5 @@ My Application           57 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
- Last Updated on 18/05/2023 13:08:53 UTC
+ Last Updated on 18/05/2023 14:05:55 UTC
 <!--END_SECTION:waka-->
