@@ -27,7 +27,7 @@
 <br>
 <p align="center">
 <a href="https://github.com/aberdayy">
-  <img src="https://github-readme-stats-chi-coral.vercel.app/api/top-langs/?username=aberdayy&layout=compact&hide=hack,php&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats-chi-coral.vercel.app/api/top-langs/?username=aberdayy&layout=compact&hide=hack&theme=dark&hide_border=true" />
 </a>
 </p>
 <p align="center">
