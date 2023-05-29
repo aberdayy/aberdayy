@@ -39,7 +39,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-91%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-90%20hrs%2051%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-198.3%20thousand%20lines%20of%20code-blue)
 
@@ -81,5 +81,5 @@ MIS102                   22 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Last Updated on 29/05/2023 20:06:59 UTC
+ Last Updated on 29/05/2023 21:04:56 UTC
 <!--END_SECTION:waka-->
