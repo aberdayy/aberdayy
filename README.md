@@ -39,7 +39,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-104%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-104%20hrs%2044%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-206.8%20thousand%20lines%20of%20code-blue)
 
@@ -75,5 +75,5 @@ mis104final              10 hrs 35 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
- Last Updated on 04/06/2023 16:07:45 UTC
+ Last Updated on 04/06/2023 17:04:10 UTC
 <!--END_SECTION:waka-->
