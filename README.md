@@ -68,12 +68,12 @@ Sunday                   56 commits          ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀�
 
 ```text
 🔥 Editors: 
-IntelliJ                 0 secs              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-MIS102                   0 secs              ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 11/07/2023 21:06:39 UTC
+ Last Updated on 11/07/2023 22:06:56 UTC
 <!--END_SECTION:waka-->
