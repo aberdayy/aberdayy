@@ -1,4 +1,4 @@
-<p align="center"><a href="https://aberdayy.github.io"><img width="80%" alt="Hello, I'm Ata. I do softwere development!" src="header.svg" /></a></p>
+<p align="center"><a href="https://github.com/aberdayy/"><img width="80%" alt="Hello, I'm Ata. I do softwere development!" src="header.svg" /></a></p>
 
 <br />
 
