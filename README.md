@@ -39,7 +39,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-108%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-106%20hrs%2028%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-211.6%20thousand%20lines%20of%20code-blue)
 
@@ -76,5 +76,5 @@ hibernateDemo            8 mins              ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀�
 ```
 
 
- Last Updated on 04/08/2023 20:06:57 UTC
+ Last Updated on 04/08/2023 21:04:42 UTC
 <!--END_SECTION:waka-->
