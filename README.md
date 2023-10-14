@@ -75,5 +75,5 @@ Ders Ornekleri           41 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 ```
 
 
- Last Updated on 14/10/2023 17:04:30 UTC
+ Last Updated on 14/10/2023 18:07:59 UTC
 <!--END_SECTION:waka-->
