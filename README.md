@@ -8,7 +8,7 @@
 
 - 💼 Computer Science Student at [FBU](http://fbu.edu.tr/)
 
-- ❤️ I love programming and I love creating fun console apps for my daily life usage.
+- ❤️ I love programming
 
 - 💬 Ask me about anything [here](https://github.com/aberdayy/aberdayy/issues)
 
