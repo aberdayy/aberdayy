@@ -39,7 +39,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-136%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-134%20hrs%2013%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-213.6%20thousand%20lines%20of%20code-blue)
 
@@ -76,5 +76,5 @@ COMP2005                 37 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Last Updated on 16/11/2023 20:08:02 UTC
+ Last Updated on 16/11/2023 21:06:48 UTC
 <!--END_SECTION:waka-->
