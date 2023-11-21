@@ -23,4 +23,5 @@ jobs:
           SHOW_OS: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
           SYMBOL_VERSION: 2
+          IGNORED_REPOS: "PHP_Library, MySQL_Library, PHP_Apps"
           
