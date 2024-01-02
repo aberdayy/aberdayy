@@ -39,7 +39,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-166%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-162%20hrs%2025%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-167.9%20thousand%20lines%20of%20code-blue)
 
@@ -80,5 +80,5 @@ Py                       0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Last Updated on 02/01/2024 20:07:32 UTC
+ Last Updated on 02/01/2024 21:06:27 UTC
 <!--END_SECTION:waka-->
