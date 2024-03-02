@@ -76,5 +76,5 @@ HOMEWORK UBUNTU DOSYALARI2 mins              ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀�
 ```
 
 
- Last Updated on 02/03/2024 10:06:31 UTC
+ Last Updated on 02/03/2024 11:04:51 UTC
 <!--END_SECTION:waka-->
