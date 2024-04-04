@@ -27,12 +27,12 @@
 <br>
 <p align="center">
 <a href="https://github.com/aberdayy">
-  <img src="https://github-readme-stats-chi-coral.vercel.app/api/top-langs/?username=aberdayy&layout=compact&hide=hack&theme=dark&hide_border=true" />
+  <img src="github-readme-stats-6pzy-git-master-aberdayys-projects.vercel.app/api/top-langs/layout=compact&hide=hack&theme=dark&hide_border=true" />
 </a>
 </p>
 <p align="center">
 <a href="https://github.com/aberdayy">
-  <img src="https://github-readme-stats-chi-coral.vercel.app/api?username=aberdayy&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Aberdayy's github stats" />
+  <img src="github-readme-stats-6pzy-git-master-aberdayys-projects.vercel.app/api/show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Aberdayy's github stats" />
 </a>
 </p>
 
