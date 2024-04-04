@@ -29,7 +29,7 @@
 
 <p align="center">
 <a href="https://github.com/aberdayy">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aberdayy&layout=donut&theme=dark" alt="Aberdayy's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aberdayy&layout=donut&theme=dark&hide=hack,Jupyter%20Notebook" alt="Aberdayy's github stats" />
 </a>
 </p>
 
