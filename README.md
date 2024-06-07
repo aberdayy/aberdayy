@@ -4,12 +4,6 @@
 
 <p align="center">I'm a self-taught passionate BackEnd developer from Turkiye 🇹🇷 </p>
 
-**About me**
-
-- 💼 Computer Science Student at [FBU](http://fbu.edu.tr/)
-
-- ❤️ I love programming
-
 - 💬 Ask me about anything [here](https://github.com/aberdayy/aberdayy/issues)
 
    <!--<a href="https://wakatime.com/@aberdayy"><img src="https://wakatime.com/badge/user/86fe9dd8-ef68-4c5f-81a3-b41a5c196cd0.svg" /></a> -->
