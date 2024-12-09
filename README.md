@@ -2,7 +2,7 @@
 
 <br />
 
-<p align="center">I'm a self-taught passionate BackEnd developer from Turkiye 🇹🇷 </p>
+<p align="center">I'm a self-taught passionate BackEnd developer </p>
 
 - 💬 Ask me about anything [here](https://github.com/aberdayy/aberdayy/issues)
 
