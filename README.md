@@ -37,8 +37,6 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-179%20hrs%2058%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-169.7%20thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
@@ -73,5 +71,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 03/10/2025 20:10:47 UTC
+ Last Updated on 03/10/2025 21:08:35 UTC
 <!--END_SECTION:waka-->
